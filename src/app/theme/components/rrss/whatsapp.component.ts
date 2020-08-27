@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class OptionsComponent {
 
   public openLinkWhatsapp(){
-    window.open('https://api.whatsapp.com/send?phone=+56995153417&text=%20Hola, estoy interesad@ en tu producto.');
+    //window.open('https://api.whatsapp.com/send?phone=+56995153417&text=%20Hola, estoy interesad@ en tu producto.');
   }
 }
